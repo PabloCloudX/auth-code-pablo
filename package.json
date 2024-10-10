@@ -1,0 +1,21 @@
+{
+  "name": "auth-code-pablo",
+  "version": "1.0.0",
+  "description": "Simple authentication for API key validation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth",
+    "apikey",
+    "authentication",
+    "pablo",
+    "whatsapp"
+  ],
+  "author": "PabloNetwork",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "*"
+  }
+}
