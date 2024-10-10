@@ -89,5 +89,3 @@ Lihat daftar [kontributor](https://github.com/username/auth-code-pablo/graphs/co
 ## 📫 Cara Menghubungi
 
 Jika Anda memiliki pertanyaan atau saran, silakan buka [isu](https://github.com/username/auth-code-pablo/issues) di repository ini atau hubungi saya di [pablobotz110@gmail.com@gmail.com](mailto: pablobotz110@gmail.com@gmail.com).
-
-```
